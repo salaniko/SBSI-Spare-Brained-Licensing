@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fr-FR" original="License Mgt.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2870711897 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extension License</source>
+          <target>Gestion des licences SBSI</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 2520497479 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activated</source>
+          <target>Activé</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Activated - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 3681468396 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activated At</source>
+          <target>Activé à</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Activated At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 128183738 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activated By</source>
+          <target>Activé par</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Activated By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 3278502036 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Billing Support Email</source>
+          <target>Support email facturation</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Billing Support Email - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 2570673311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created At</source>
+          <target>Créé à</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Created At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 3553709163 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Id</source>
+          <target>Id écriture</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Entry Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 2515772770 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extension Name</source>
+          <target>Nom de l'extension</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Extension Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 3301870439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Installed At</source>
+          <target>Installé à</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Installed At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 682390464 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>License Key</source>
+          <target>Clé licence</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field License Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 3482719256 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>License Platform</source>
+          <target>Plateforme licence</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field License Platform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 3265714202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Product Code</source>
+          <target>Code produit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Product Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 1615067412 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Product URL</source>
+          <target>URL Produit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Product URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 3577687543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subscription Cancelled At</source>
+          <target>Souscription annulée à</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Subscription Cancelled At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 2993034865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subscription Email</source>
+          <target>Email souscription</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Subscription Email - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 714177988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subscription End Date</source>
+          <target>Date fin souscription</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Subscription End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 3419904252 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subscription Ended At</source>
+          <target>Souscription terminée à</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Subscription Ended At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 586868407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subscription Failed At</source>
+          <target>Soucription échouée à</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Subscription Failed At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 1645510544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Support URL</source>
+          <target>URL assistance</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Support URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 3502087437 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trial Grace End Date</source>
+          <target>Date fin essai</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Trial Grace End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 2888391108 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Available</source>
+          <target>Mise à jour disponible</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Update Available - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 1667101431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update News URL</source>
+          <target>URL nouvelles mises à jour</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Update News URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2870711897 - Field 1618015777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Version Check URL</source>
+          <target>URL vérification version</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPBPL Extension License - Field Version Check URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1922437799 - Method 2560927687 - NamedType 345427010" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Subscription was found in the Subscriptions list for AppId: %1</source>
+          <target>Aucune souscription n'a été trouvée dans la liste des souscriptions pour l'app: %1</target>
+          <note from="Developer" annotates="general" priority="2">%1 is which Application ID</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL Extension Registration - Method CheckIfActive - NamedType NoSubFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1922437799 - Method 2560927687 - NamedType 4007641815" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Subscription for %1 is not Active.  Contact your system administrator to re-activate it.</source>
+          <target>La souscription pour %1 n'est pas active. Veuillez contacter votre administrateur système.</target>
+          <note from="Developer" annotates="general" priority="2">%1 is the name of the Subscription</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL Extension Registration - Method CheckIfActive - NamedType SubscriptionInactiveErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1922437799 - Method 36282276 - NamedType 3218011231" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;+%1D&gt;</source>
+          <target>&lt;+%1D&gt;</target>
+          <note from="Developer" annotates="general" priority="2">%1 is the number of days </note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL Extension Registration - Method RegisterExtension - NamedType PlusDaysTok</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4024883425 - NamedType 4116823388" size-unit="char" translate="yes" xml:space="preserve">
+          <source>https://api.gumroad.com/v2/licenses/verify?product_permalink=%1&amp;license_key=%2&amp;increment_uses_count=%3</source>
+          <target>https://api.gumroad.com/v2/licenses/verify?product_permalink=%1&amp;license_key=%2&amp;increment_uses_count=%3</target>
+          <note from="Developer" annotates="general" priority="2">%1 %2 %3</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL Gumroad Communicator - NamedType GumroadVerifyAPITok</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4024883425 - Method 572322412 - NamedType 1832738441" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unable to verify or activate license.\ %1: %2 \ %3</source>
+          <target>Impossible de vérifier ou d'activer la licence.\ %1: %2 \ %3</target>
+          <note from="Developer" annotates="general" priority="2">%1 %2 %3</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL Gumroad Communicator - Method CallAPIForVerification - NamedType WebCallErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4024883425 - Method 572322412 - NamedType 2344834051" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unable to communicate with the license server due to an environment block. Please resolve and try again.</source>
+          <target>Impossible de communiquer avec le serveur de licences en raison d'un blocage d'environnement. Merci de le résoudre et de réessayer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL Gumroad Communicator - Method CallAPIForVerification - NamedType EnvironmentBlockErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4024883425 - Method 2508294018 - NamedType 1515148142" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An error occured validating the license.  Contact %1 for assistance</source>
+          <target>Une erreur est survenue lors de la validation de la licence.  Contacter %1 pour assistance</target>
+          <note from="Developer" annotates="general" priority="2">%1 is the App Publisher</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL Gumroad Communicator - Method CheckAPILicenseCount - NamedType GumroadErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4024883425 - Method 2792865364 - NamedType 2571021891" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An error occured validating the license.  Contact %1 for assistance</source>
+          <target>Une erreur est survenue lors de la validation de la licence.  Contacter %1 pour assistance</target>
+          <note from="Developer" annotates="general" priority="2">%1 is the App Publisher</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL Gumroad Communicator - Method PopulateSubscriptionFromResponse - NamedType ActivationFailureErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4024883425 - Method 906692905 - NamedType 385219469" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The key will look like XXXXXXXX-XXXXXXXX-XXXXXXXX-XXXXXXXX.</source>
+          <target>La clé a le format suivant : XXXXXXXX-XXXXXXXX-XXXXXXXX-XXXXXXXX.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL Gumroad Communicator - Method SampleKeyFormatText - NamedType GumroadKeyFormatTok</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2595493984 - NamedType 3305359901" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1-%2</source>
+          <target>%1-%2</target>
+          <note from="Developer" annotates="general" priority="2">%1 %2</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL IsoStore Manager - NamedType NameMapTok</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3022200967 - Method 1089336500 - NamedType 2571021891" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An error occured validating the license.  Contact %1 for assistance</source>
+          <target>Une erreur est survenue lors de la validation de la licence.  Contacter %1 pour assistance</target>
+          <note from="Developer" annotates="general" priority="2">%1 is the App Publisher</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL License Management - Method ActivateExtension - NamedType ActivationFailureErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3022200967 - Method 1089336500 - NamedType 4258206074" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The License Key provided has already expired due to a Subscription End.  Contact %1 for assistance</source>
+          <target>La clé de licence fournie a déjà expirée du à la fin de la souscription. Contact %1 pour assistance</target>
+          <note from="Developer" annotates="general" priority="2">%1 is the App Publisher</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL License Management - Method ActivateExtension - NamedType LicenseKeyExpiredErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3022200967 - Method 1130209872 - NamedType 2597918364" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are no remaining uses of that license key to assign to this installation.</source>
+          <target>Il n'y a plus d'utilisations restantes de cette clé de licence à attribuer à cette installation.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL License Management - Method ActivateFromWizard - NamedType NoRemainingUsesErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3022200967 - Method 2560927687 - NamedType 3635804519" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Today is the last trial day for %1. Please purchase a License Key and Activate the subscription to continue use.</source>
+          <target>Aujourd'hui est le dernier jour d'essai pour %1. Veuillez acheter une clé de licence et activer l'abonnement pour continuer à utiliser</target>
+          <note from="Developer" annotates="general" priority="2">%1 is the name of the Extension</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL License Management - Method CheckIfActive - NamedType GraceExpiringMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3022200967 - Method 2560927687 - NamedType 1318374551" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;+%1D&gt;</source>
+          <target>&lt;+%1D&gt;</target>
+          <note from="Developer" annotates="general" priority="2">%1 is the number of days</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL License Management - Method CheckIfActive - NamedType DaysGraceTok</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3022200967 - Method 2547612846 - NamedType 4286379137" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To install this Extension, you need to update %1 to at least version %2.</source>
+          <target>Pour installer cette extension, vous devez mettre à jour %1 vers au moins la version %2.</target>
+          <note from="Developer" annotates="general" priority="2">%1 is the name of extension, %2 is the version number</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL License Management - Method CheckSupportedVersion - NamedType VersionUpdateRequiredErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3022200967 - Method 1168398803 - NamedType 2648923875" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This will deactivate this license in this Business Central instance, but you will need to contact the Publisher to release the assigned license. \ \Are you sure you want to deactivate this license?</source>
+          <target>Cela désactivera cette licence dans cette instance Business Central, mais vous devrez contacter l'éditeur pour libérer la licence attribuée. \ \Voulez-vous vraiment désactiver cette licence ?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL License Management - Method DeactivateExtension - NamedType DeactivationWarningQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3022200967 - Method 2406779609 - NamedType 1913171376" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Extension: %1</source>
+          <target>Mettre à jour l'extension: %1</target>
+          <note from="Developer" annotates="general" priority="2">%1 is Extension Name</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL License Management - Method DoVersionCheck - NamedType SubjectTok</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3022200967 - Method 2406779609 - NamedType 3863198149" size-unit="char" translate="yes" xml:space="preserve">
+          <source>https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-manage-apps#get-an-overview-and-check-for-updates</source>
+          <target>https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-manage-apps#get-an-overview-and-check-for-updates</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL License Management - Method DoVersionCheck - NamedType DocsTok</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3829117740 - NamedType 838086400" size-unit="char" translate="yes" xml:space="preserve">
+          <source>bwdCu</source>
+          <target>bwdCu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL License Utilities - NamedType SelfTestProductIdTok</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3829117740 - NamedType 667657482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>21E2339D-F24D4A92-9813B4F2-8ABA083C</source>
+          <target>21E2339D-F24D4A92-9813B4F2-8ABA083C</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL License Utilities - NamedType SelfTestProductKeyTok</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3829117740 - Method 1134850377 - NamedType 3336782859" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Content-Disposition: form-data; name="%1"</source>
+          <target>Content-Disposition: form-data; name="%1"</target>
+          <note from="Developer" annotates="general" priority="2">%1 is the name of the Form Data</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SPBPL License Utilities - Method AddNameValuePair - NamedType FormDataNameTok</note>
+        </trans-unit>
+        <trans-unit id="Page 2519867600 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extension Licenses</source>
+          <target>Gestion des licences SBSI</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL Extension Licenses - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2519867600 - NamedType 3390988340" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Available</source>
+          <target>Disponible</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL Extension Licenses - NamedType UpdateAvailableTok</note>
+        </trans-unit>
+        <trans-unit id="Page 2519867600 - Control 2520497479 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows if this Extension has been Activated with a Product Key.</source>
+          <target>Indique si cette extension a été activée avec une clé de produit.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL Extension Licenses - Control Activated - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2519867600 - Control 3278502036 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The email address to contact with Billing related questions about this Subscription.</source>
+          <target>L'adresse e-mail à contacter pour les questions relatives à la facturation concernant cet abonnement.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL Extension Licenses - Control Billing Support Email - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2519867600 - Control 3553709163 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Entry Id field.</source>
+          <target>Spécifie la valeur du champ ID d'entrée.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL Extension Licenses - Control Entry Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2519867600 - Control 2515772770 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The name of the Extension that is registered to have a Subscription requirement.</source>
+          <target>Le nom de l'extension qui est enregistrée pour avoir un abonnement.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL Extension Licenses - Control Extension Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2519867600 - Control 1615067412 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The page where one can find more information about purchasing a Subscription for this Extension.</source>
+          <target>La page où l'on peut trouver plus d'informations sur l'achat d'un abonnement pour cette extension.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL Extension Licenses - Control Product URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2519867600 - Control 2993034865 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This shows the email address that the License Key is registered to, in case there is a need to find it later.</source>
+          <target>Cela montre l'adresse e-mail à laquelle la clé de licence est enregistrée, au cas où il serait nécessaire de la retrouver ultérieurement.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL Extension Licenses - Control Subscription Email - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2519867600 - Control 1645510544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The page where one can find more information about how to get Support for the Extension.</source>
+          <target>La page où l'on peut trouver plus d'informations sur la façon d'obtenir de l'assistance pour l'extension.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL Extension Licenses - Control Support URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2519867600 - Control 3502087437 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If the Extension is not yet Activated, this is the last date the Extension can run in Trial Mode.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL Extension Licenses - Control Trial Grace End Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2519867600 - Control 890477203 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If an Update is available, this will link to where to find out more.</source>
+          <target>Si une mise à jour est disponible, cela vous redirigera vers où en savoir plus.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL Extension Licenses - Control UpdateLink - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2519867600 - Control 890477203 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update News</source>
+          <target>Nouvelles mises à jour</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL Extension Licenses - Control UpdateLink - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2519867600 - Action 2267293014 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Launches the Activation Wizard for this Subscription.</source>
+          <target>Lance l'assistant d'activation pour cet abonnement.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL Extension Licenses - Action ActivateProduct - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2519867600 - Action 2267293014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activate</source>
+          <target>Activer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL Extension Licenses - Action ActivateProduct - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2519867600 - Action 2955463525 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forces this Subscription inactive, which will allow entry of a new License Key.</source>
+          <target>Force cet abonnement inactif, ce qui permettra la saisie d'une nouvelle clé de licence.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL Extension Licenses - Action DeactivateProduct - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2519867600 - Action 2955463525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deactivate</source>
+          <target>Désactiver</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL Extension Licenses - Action DeactivateProduct - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3179820558 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Licensing Activation Wizard</source>
+          <target>Assistant d'activation de licence</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL License Activation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3179820558 - NamedType 1398112590" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You need to enter a License Key to continue.</source>
+          <target>Vous devez entrer une clé de licence pour continuer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL License Activation - NamedType LicenseKeyNeededErr</note>
+        </trans-unit>
+        <trans-unit id="Page 3179820558 - NamedType 1234444719" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get License Key</source>
+          <target>Obtenir la clé de licence</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL License Activation - NamedType LicenseLinkUriTok</note>
+        </trans-unit>
+        <trans-unit id="Page 3179820558 - NamedType 3119195878" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Test Key</source>
+          <target>Utiliser la clé de test</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL License Activation - NamedType TestLicenseKeyOfferTok</note>
+        </trans-unit>
+        <trans-unit id="Page 3179820558 - Control 3243166786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Activation</source>
+          <target>Démarrer l'activation</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL License Activation - Control LetsStart - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3179820558 - Control 1201906119 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click Next to begin the activation process. You will need your Subscription License key.</source>
+          <target>Cliquez sur Suivant pour commencer le processus d'activation. Vous aurez besoin de votre clé de licence d'abonnement.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL License Activation - Control StartText - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3179820558 - Control 1283650361 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Activation Wizard for the Licensing system.</source>
+          <target>Il s'agit de l'assistant d'activation du système de licence.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL License Activation - Control WelcomeText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3179820558 - Control 3817008790 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You will enter the License Key for the following License.  If you do not have a License key, please click on the "Get License Key" link.</source>
+          <target>Vous entrerez la clé de licence pour la licence suivante. Si vous n'avez pas de clé de licence, veuillez cliquer sur le lien "Obtenir la clé de licence".</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL License Activation - Control WelcomeExplainer - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3179820558 - Control 426715456 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please enter your Subscription License Key:</source>
+          <target>Veuillez saisir votre clé de licence d'abonnement :</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL License Activation - Control LicenseKeyInstruction - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3179820558 - Control 3196012354 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Test Subscription, so you can use a test License Key here by clicking:</source>
+          <target>Il s'agit de l'abonnement test, vous pouvez donc utiliser une clé de licence test ici en cliquant sur :</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL License Activation - Control TestLicenseOption - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3179820558 - Control 2723201281 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please enter your Subscription License Key:</source>
+          <target>Veuillez saisir votre clé de licence d'abonnement :</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL License Activation - Control TestPathLicenseKeyInstruction - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3179820558 - Control 1755829652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activation Results</source>
+          <target>Résultats d'activation</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL License Activation - Control ActivationResultsPageText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3179820558 - Control 3933190995 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activation Unsuccessful!</source>
+          <target>Échec de l'activation !</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL License Activation - Control ActivationDidNotWork - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3179820558 - Control 1200239856 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activation Successful!</source>
+          <target>Activation réussie!</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL License Activation - Control ActivationWorked - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3179820558 - Action 2438272767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <target>Précédent</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL License Activation - Action ActionBack - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3179820558 - Action 3259912055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finish</source>
+          <target>Terminer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL License Activation - Action ActionFinish - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3179820558 - Action 914282563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target>Suivant</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPBPL License Activation - Action ActionNext - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3747597251 - EnumValue 1009633233 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gumroad</source>
+          <target>Gumroad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SPBPL License Platform - EnumValue Gumroad - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 917097709 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spare Brained Licensing Admin</source>
+          <target>Pemissions gestion des licences admin</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet SPBPL Licensing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1149570938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SPBPL Licensing RO</source>
+          <target>Permissions gestion des licences utilisateur</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet SPBPL Licensing RO - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

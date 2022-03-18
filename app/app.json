@@ -1,0 +1,35 @@
+{
+  "id": "03c856d0-16ab-4871-93ef-3e39e5c98c4c",
+  "name": "License Mgt",
+  "publisher": "SBSI Consulting",
+  "brief": "This library helps other Extensions verify a current subscription license.",
+  "description": "This library helps other Extensions verify a current subscription license.",
+  "version": "19.0.0.7",
+  "privacyStatement": "https://sbsiconsulting.fr/privacypolicy",
+  "EULA": "https://go.microsoft.com/fwlink/?linkid=2041178",
+  "help": "https://sbsiconsulting.fr/support",
+  "contextSensitiveHelpUrl": "https://sbsiconsulting.fr/support",
+  "url": "https://sbsiconsulting.fr",
+  "logo": "./Images/LogoAppsource216x216.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 71033,
+      "to": 71043
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "target": "Cloud",
+  "runtime": "8.0",
+  "features": [
+    "TranslationFile", "NoImplicitWith"
+  ],
+  "applicationInsightsConnectionString": ""
+}
